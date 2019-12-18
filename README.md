@@ -26,6 +26,7 @@ packages/
         |
         cstWeapons.lua
 ```
+* Add "includes" declaraction in your **server_config.json** (it should be above necessary packages)
 * Copy the **cstWeapons.lua** from the `packages/includes` folder to all your necessary packages
 * Add the declaration of the **cstWeapons.lua** file in all your necessary **package.json**
 ```js
