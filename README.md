@@ -57,24 +57,24 @@ ToolWeapon.GetWeaponId(WP_COLT))
 ```
 > Constants
 ```lua
-WP_FIST = "FIST"
-WP_DEAGLE = "DEAGLE"
-WP_COLT = "COLT"
-WP_GLOCK = "GLOCK"
-WP_BERETTA = "BERETTA"
-WP_AUTOSHOTGUN = "AUTOSHOTGUN"
-WP_SHOTGUN = "SHOTGUN"
-WP_MP5S = "MP5S"
-WP_UZI = "UZI"
-WP_UMP = "UMP"
-WP_M16A4 = "M16A4"
-WP_AK47 = "AK47"
-WP_AK47G = "AK47G"
-WP_G36C = "G36C"
-WP_VSS = "VSS"
-WP_AK74U = "AK74U"
-WP_M4A1 = "M4A1"
-WP_ACR = "ACR"
-WP_M4A4 = "M4A4"
-WP_AWP = "AWP"
+WP_FIST = "FIST" 		// = 1
+WP_DEAGLE = "DEAGLE"		// = 2
+WP_COLT = "COLT" 		// = 3
+WP_GLOCK = "GLOCK" 		// = 4
+WP_BERETTA = "BERETTA" 		// = 5
+WP_AUTOSHOTGUN = "AUTOSHOTGUN"	// = 6
+WP_SHOTGUN = "SHOTGUN" 		// = 7
+WP_MP5S = "MP5S" 		// = 8
+WP_UZI = "UZI" 			// = 9
+WP_UMP = "UMP" 			// = 10
+WP_M16A4 = "M16A4" 		// = 11
+WP_AK47 = "AK47" 		// = 12
+WP_AK47G = "AK47G" 		// = 13
+WP_G36C = "G36C" 		// = 14
+WP_VSS = "VSS" 			// = 15
+WP_AK74U = "AK74U" 		// = 16
+WP_M4A1 = "M4A1" 		// = 17
+WP_ACR = "ACR" 			// = 18
+WP_M4A4 = "M4A4" 		// = 19
+WP_AWP = "AWP" 			// = 20
 ```
