@@ -1,0 +1,13 @@
+{
+	"author": "Classic",
+	"version": "1.0",
+	"server_scripts": [
+        "cstWeapons.lua",
+		"server/libWeapons.lua"
+	],
+	"client_scripts": [
+        "cstWeapons.lua"
+	],
+	"files": [
+	]
+}
