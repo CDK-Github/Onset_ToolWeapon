@@ -1,4 +1,4 @@
-# Onset_ToolWeapon
+# Onset_WeaponHelper
 Thanks to this coding tool, you will be able to get a weaponId faster than a research on the PlayOnset's wikipedia. It's better for code review and a beginner developer.
 ## Package Installation
 * Download the ZIP archive from the project page
